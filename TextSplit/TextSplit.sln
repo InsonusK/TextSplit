@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSplit.Tool.ByLineLenght", "TextSplit.Tool.ByLineLenght\TextSplit.Tool.ByLineLenght.csproj", "{396CE440-AAF9-4155-8911-93F72F840C02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSplit.Tool.ByLineLength", "TextSplit.Tool.ByLineLength\TextSplit.Tool.ByLineLength.csproj", "{396CE440-AAF9-4155-8911-93F72F840C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSplit.Tool.ByLineLenght.Test", "TextSplit.Tool.ByLineLenght.Test\TextSplit.Tool.ByLineLenght.Test.csproj", "{3238758E-8117-4954-9C4A-5DB414499678}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSplit.Tool.ByLineLength.Test", "TextSplit.Tool.ByLineLength.Test\TextSplit.Tool.ByLineLength.Test.csproj", "{3238758E-8117-4954-9C4A-5DB414499678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

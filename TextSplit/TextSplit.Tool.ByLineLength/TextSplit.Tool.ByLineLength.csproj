@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>TextSplit.Tool.ByLineLength</AssemblyName>
+    <RootNamespace>TextSplit.Tool.ByLineLength</RootNamespace>
+    <PackageId>TextSplit.Tool.ByLineLength</PackageId>
+    <Authors>insonus.K</Authors>
+    <Company />
+    <Product>TextSplit</Product>
+  </PropertyGroup>
+
+</Project>
